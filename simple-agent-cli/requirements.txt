@@ -1,0 +1,5 @@
+langchain
+dotenv
+pydantic
+typing_extensions
+langchain-google-genai
